@@ -11,6 +11,7 @@ A curated collection of web-based audio production tools
 2. https://femurdesign.com/omni/
 3. http://www.noisesculptor.com/
 4. https://www.mod-synth.io/
+5. https://www.webaudiomodules.org/wamsynths/noisemaker
 
 ## Tutorials
 1. https://learningsynths.ableton.com/
