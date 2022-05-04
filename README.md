@@ -5,6 +5,7 @@ A curated collection of web-based audio production tools
 
 ### Open Source
 1. http://nicroto.github.io/viktor/
+2. https://juno-106.js.org/ -> https://github.com/stevengoldberg/juno106
 
 ### Closed Source
 1. https://www.websynths.com/
@@ -23,7 +24,6 @@ A curated collection of web-based audio production tools
 14. https://midi.city/
 15. https://onlinesequencer.net/
 16. http://aikelab.net/websynthv2/
-17. https://juno-106.js.org/
 18. http://luketeaford.com/apps/tanguy/
 19. https://www.igorski.nl/application/websid/
 20. https://www.g200kg.com/docs/webmodular/
